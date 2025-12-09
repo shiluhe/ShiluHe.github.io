@@ -9,56 +9,48 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+About Me
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+Hi！I am a third-year undergraduate student majoring in Robotics Engineering at Chongqing University. Currently, I am conducting research on legged robots at the Chongqing Embodied Intelligence Laboratory, under the supervision of Professor Pu Can and Professor Yang Chuanyu. My research interests include legged robots, reinforcement learning, and locomotion.
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+ [GitHub](https://github.com/shiluhe) /[B站](https://space.bilibili.com/1395945733?spm_id_from=333.1007.0.0) / [CSDN](https://blog.csdn.net/woshichongdade)
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Academic Background
+======
+**ChongQing University (2023.09 - 至今)**
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- GPA: 3.80/4
 
-Publications
+- Rank: 1/57
+
+I am working on scientific research now！
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+[11/2025 to the present] Conducting research on locomotion at the Chongqing Embodied Intelligence Laboratory.
+
+[07/2025 -- 09/2025] I completed a research internship at the Institute of Frontier Interdisciplinary Sciences, Beijing Institute of Technology, under the supervision of Professor Lü Yuezu, where I was responsible for communication improvements in multi-UAV collaborative exploration.
+
+Competitions and Entrepreneurship
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+[09/2025] Two invention patents have been published (4th inventor).
+
+[08/2025] Winner of the Provincial Silver Award at the China International College Student Innovation Competition (2025)
+
+[08/2025] Third Prize in the 24rd National College Student Robotics Competition ROBOCON, as the leader of the Hardware Group.
+
+[03/2025] One personal software copyright.
+
+[12/2024] The startup team behind the smart cocktail machine has secured 50W RMB in seed funding（I was once in charge of prototype development）.
+
+[11/2024] Winner of the National Third Prize at the 2024 China Robot Competition RoboCup，as the leader of the group.
+
+[07/2024] Third Prize in the 23rd National College Student Robotics Competition ROBOCON, as the leader of the Electronic Control Group.
+
+Honors and Awards
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+[11/2025] Awarded Chongqing University Person of the Year (one of only 10 undergraduate students in the entire university each year).
+
+[11/2025] Received the Xiaomi Special Scholarship (one of only 5 undergraduate students in the entire university each year).
+
+[10/2024] Received the National Scholarship
+
+[08/2024] XbotPark Summer Camp "Outstanding Technology Award" and "Best Solution Innovation Award"
