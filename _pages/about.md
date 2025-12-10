@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 About Me
 ======
 Hi！I am a third-year undergraduate student majoring in Robotics Engineering at Chongqing University. Currently, I am conducting research on legged robots at the Chongqing Embodied Intelligence Laboratory, under the supervision of Professor Pu Can and Professor Yang Chuanyu. My research interests include legged robots, reinforcement learning, and locomotion.
