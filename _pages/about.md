@@ -33,7 +33,7 @@ Competitions and Entrepreneurship
 
 [08/2025] Winner of the Provincial Silver Award at the China International College Student Innovation Competition (2025)
 
-[08/2025] Third Prize in the 24rd National College Student Robotics Competition ROBOCON, as the leader of the Hardware Group.
+[08/2025] Three Third Prize in the 24rd National College Student Robotics Competition ROBOCON, as the leader of the Hardware Group.
 
 [03/2025] One personal software copyright.
 
@@ -43,6 +43,8 @@ Competitions and Entrepreneurship
 
 [07/2024] Third Prize in the 23rd National College Student Robotics Competition ROBOCON, as the leader of the Electronic Control Group.
 
+[08/2024] XbotPark Summer Camp "Outstanding Technology Award" and "Best Solution Innovation Award"
+
 Honors and Awards
 ======
 [11/2025] Awarded Chongqing University Person of the Year (one of only 10 undergraduate students in the entire university each year).
@@ -50,9 +52,6 @@ Honors and Awards
 [11/2025] Received the Xiaomi Special Scholarship (one of only 5 undergraduate students in the entire university each year).
 
 [10/2024] Received the National Scholarship
-
-[08/2024] XbotPark Summer Camp "Outstanding Technology Award" and "Best Solution Innovation Award"
-
 
 
 
