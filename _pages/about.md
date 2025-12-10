@@ -41,9 +41,9 @@ Competitions and Entrepreneurship
 
 [11/2024] Winner of the National Third Prize at the 2024 China Robot Competition RoboCup，as the leader of the group.
 
-[07/2024] Third Prize in the 23rd National College Student Robotics Competition ROBOCON, as the leader of the Electronic Control Group.
-
 [08/2024] XbotPark Summer Camp "Outstanding Technology Award" and "Best Solution Innovation Award"
+
+[07/2024] Third Prize in the 23rd National College Student Robotics Competition ROBOCON, as the leader of the Electronic Control Group.
 
 Honors and Awards
 ======
