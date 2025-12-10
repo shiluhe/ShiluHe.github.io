@@ -23,7 +23,7 @@ Academic Background
 
 I am working on scientific research now！
 ======
-[11/2025 to the present] Conducting research on locomotion at the Chongqing Embodied Intelligence Laboratory.
+[11/2025 to the present] Conducting research on locomotion based RL at the Chongqing Embodied Intelligence Laboratory.
 
 [07/2025 -- 09/2025] I completed a research internship at the Institute of Frontier Interdisciplinary Sciences, Beijing Institute of Technology, under the supervision of Professor Lü Yuezu, where I was responsible for communication improvements in multi-UAV collaborative exploration.
 
