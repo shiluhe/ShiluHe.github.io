@@ -29,6 +29,8 @@ I am working on scientific research now！
 
 Competitions and Entrepreneurship
 ======
+[12/2025] Municipal-level undergraduate innovation training project: Successful project completion.（Second in line）
+
 [09/2025] Two invention patents have been published (4th inventor).
 
 [08/2025] Winner of the Provincial Silver Award at the China International College Student Innovation Competition (2025)
