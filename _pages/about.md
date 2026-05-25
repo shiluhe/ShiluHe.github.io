@@ -53,7 +53,7 @@ Competitions and Entrepreneurship
 
 Honors and Awards
 ======
-[05/2026] Awarded Chongqing University New Era Youth Pioneers (Highest honor for youth， one of only 20 youth in the entire university each year).
+[05/2026] Awarded Chongqing University New Era Youth Pioneers (Highest honor for youth，one of only 20 youth in the entire university each year).
 
 [11/2025] Awarded Chongqing University Person of the Year (Highest honor for students, one of only 10 undergraduate students in the entire university each year).
 
