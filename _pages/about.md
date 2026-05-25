@@ -25,7 +25,7 @@ Academic Background
 
 I am working on scientific research now！
 ======
-[03/2026 -- now] Conducting research on VLA and RL-related methods for embodied intelligence, while also exploring world action models (WAM), in the Data Mining Lab at Chongqing University.
+[03/2026 -- now] Conducting research on VLA and RL-related methods for embodied intelligence, while also exploring world action models (WAM).
 
 [11/2025 -- 03/2026] Conducting research on locomotion based reinforcement learning at ZERITH Robotics. Co-first author (listed second) on a paper submitted to IROS 2026, This is the [project website](https://prior-iros2026.github.io/).
 
@@ -53,12 +53,12 @@ Competitions and Entrepreneurship
 
 Honors and Awards
 ======
+[05/2026] Awarded Chongqing University New Era Youth Pioneers (Highest honor for youth， one of only 20 youth in the entire university each year).
 
-[11/2025] Awarded Chongqing University Person of the Year (one of only 10 undergraduate students in the entire university each year).
+[11/2025] Awarded Chongqing University Person of the Year (Highest honor for students, one of only 10 undergraduate students in the entire university each year).
 
 [11/2025] Received the Xiaomi Special Scholarship (one of only 5 undergraduate students in the entire university each year).
 
 [10/2024] Received the National Scholarship.
-
 
 
